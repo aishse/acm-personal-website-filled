@@ -37,7 +37,7 @@ export default function Home() {
                    
               </div>
             </div>
-            
+            {/** Change this to your photo */}
               <Image src="/profile_pic.png"
                     alt="" 
                     className="rounded-4xl bg-amber-900"
@@ -75,7 +75,7 @@ export default function Home() {
                   <li>Spearheaded the development of over 150 patented *-inators* aimed at solving highly specific and often trivial problems...</li>
                   <li>Led a small, highly dedicated team of erratic assistants and unpredictable lab animals...</li>
                   <li>Successfully executed plans to take over the Tri-State Area on numerous occasions...</li>
-                  <li>Championed innovation in the field of "villainous engineering"...</li>
+                  <li>Championed innovation in the field of &quot;villainous engineering&quot;...</li>
                   <li>Managed to avoid major legal repercussions despite several close calls...</li>
                 </ul>
               </div>
@@ -91,24 +91,24 @@ export default function Home() {
                  <ProjectCard
                   name={"Destructor-inator"}
                   description={"An inator that destroys all lawn gnomes in the tri-state area."}
-                  image = {"/placeholders/placeholder1.png"}
+                  image = {"/project-photos/placeholder1.png"}
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
 
                 <ProjectCard
                   name={"Destructor-inator"}
                   description={"An inator that destroys all lawn gnomes in the tri-state area."}
-                  image = {"/placeholders/placeholder1.png"}
+                  image = {"/project-photos/placeholder1.png"}
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
 
                   <ProjectCard
                   name={"Destructor-inator"}
                   description={"An inator that destroys all lawn gnomes in the tri-state area."}
-                  image = {"/placeholders/placeholder1.png"}
+                  image = {"/project-photos/placeholder1.png"}
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
                  <ProjectCard
                   name={"Destructor-inator"}
                   description={"An inator that destroys all lawn gnomes in the tri-state area."}
-                  image = {"/placeholders/placeholder1.png"}
+                  image = {"/project-photos/placeholder1.png"}
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
 
            
