@@ -95,20 +95,20 @@ export default function Home() {
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
 
                 <ProjectCard
-                  name={"Destructor-inator"}
-                  description={"An inator that destroys all lawn gnomes in the tri-state area."}
-                  image = {"/project-photos/placeholder1.png"}
+                  name={"De-Love-inator Satellite"}
+                  description={"A low-earth-orbit inator that emits a laser that eliminates love from the Tri-State area."}
+                  image = {"/project-photos/placeholder2.png"}
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
 
                   <ProjectCard
-                  name={"Destructor-inator"}
-                  description={"An inator that destroys all lawn gnomes in the tri-state area."}
-                  image = {"/project-photos/placeholder1.png"}
+                  name={"Turn-Everything-Evil-inator"}
+                  description={"An inator that emits a ray that turns anything evil."}
+                  image = {"/project-photos/placeholder3.png"}
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
                  <ProjectCard
-                  name={"Destructor-inator"}
-                  description={"An inator that destroys all lawn gnomes in the tri-state area."}
-                  image = {"/project-photos/placeholder1.png"}
+                  name={"Mind-Transfer-inator"}
+                  description={"An inator that allows you to swap minds with another living thing."}
+                  image = {"/project-photos/placeholder4.png"}
                   source ={"https://phineasandferb.fandom.com/wiki/List_of_Doofenshmirtz%27s_schemes_and_inventions/Season_1"} />
 
            
